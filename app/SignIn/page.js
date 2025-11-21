@@ -53,7 +53,7 @@ export default function SignInPage() {
 
         
         <button
-          onClick={() => router.push("/login")}
+          onClick={() => router.push("/")}
           className="bg-orange-200 text-black w-[200px] p-4 mt-3 rounded-md hover:bg-orange-300"
         >
           Create New Account
